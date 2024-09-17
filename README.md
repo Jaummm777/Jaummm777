@@ -42,21 +42,21 @@
 <p>
   Um projeto simples de API para gerenciar tarefas, ideal para estudantes e estagiários aprenderem sobre o desenvolvimento de APIs. Inclui autenticação básica, rotas protegidas e persistência de dados.
   <br/>
-  <a href="https://github.com/Jaummm777/APIWnodejs">🔗 Link para o Repositório</a>
+  <a href="#">🔗 Link para o Repositório</a>
 </p>
 
 <h3>2. Calculadora Online</h3>
 <p>
   Uma calculadora desenvolvida com HTML, CSS e JavaScript. O projeto inclui lógica funcional e design intuitivo, com melhorias em andamento.
   <br/>
-  <a href="https://github.com/Jaummm777/APIprject/tree/master">🔗 Link para o Repositório</a>
+  <a href="#">🔗 Link para o Repositório</a>
 </p>
 
 <h3>3. Sistema de Vendas de Veículos</h3>
 <p>
   Projeto fullstack utilizando React no front-end e ASP.NET Core no back-end. Permite o cadastro de veículos, controle de vendas e é focado em segurança e performance.
   <br/>
-  <a href="https://github.com/Jaummm777/tryingToCreateAPIwithJS">🔗 Link para o Repositório</a>
+  <a href="#">🔗 Link para o Repositório</a>
 </p>
 
 <h2 align="center">🎯 Objetivos Atuais</h2>
