@@ -4,7 +4,7 @@
   Sou um desenvolvedor focado em <strong>back-end</strong>, mas com experiência em <strong>full-stack</strong>. Apaixonado por tecnologia e inovação, estou sempre aprendendo e me desafiando com novos projetos!
 </p>
 
-<h2 align="center">🚀 Tecnologias que Utilizo</h2>
+<h2 align="center">🚀 Tecnologias que Utilizo:</h2>
 
 <h3>🖥️ Back-End</h3>
 <p>
