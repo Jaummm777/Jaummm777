@@ -36,29 +36,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"/>
 </p>
 
-<h2 align="center">🧑‍💻 Projetos em Destaque</h2>
-
-<h3>1. API de Tarefas</h3>
-<p>
-  Um projeto simples de API para gerenciar tarefas, ideal para estudantes e estagiários aprenderem sobre o desenvolvimento de APIs. Inclui autenticação básica, rotas protegidas e persistência de dados.
-  <br/>
-  <a href="#">🔗 Link para o Repositório</a>
-</p>
-
-<h3>2. Calculadora Online</h3>
-<p>
-  Uma calculadora desenvolvida com HTML, CSS e JavaScript. O projeto inclui lógica funcional e design intuitivo, com melhorias em andamento.
-  <br/>
-  <a href="#">🔗 Link para o Repositório</a>
-</p>
-
-<h3>3. Sistema de Vendas de Veículos</h3>
-<p>
-  Projeto fullstack utilizando React no front-end e ASP.NET Core no back-end. Permite o cadastro de veículos, controle de vendas e é focado em segurança e performance.
-  <br/>
-  <a href="#">🔗 Link para o Repositório</a>
-</p>
-
 <h2 align="center">🎯 Objetivos Atuais</h2>
 <ul>
   <li>Desenvolver ainda mais habilidades com <strong>Java</strong> para <strong> back-end.</strong></li>
