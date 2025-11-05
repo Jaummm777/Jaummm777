@@ -1,57 +1,69 @@
-<h1 align="center">👋 Olá, Eu sou o João Vitor!</h1>
+<h1 align="center">🧠 João Vitor • Developer</h1>
 
 <p align="center">
-  Sou um desenvolvedor focado em <strong>back-end</strong>, mas com experiência em <strong>full-stack</strong>. Apaixonado por tecnologia e inovação, estou sempre aprendendo e me desafiando com novos projetos!
+    <i>"Todo dia código. Todo dia evolução."</i>
 </p>
 
-<h2 align="center">🚀 Tecnologias que Utilizo:</h2>
+---
 
-<h3>🖥️ Back-End</h3>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+<h2 align="center">👾 Stack & Skills</h2>
+
+<div align="center">
+
+| Back-End | Front-End | Banco de Dados | DevOps / Ferramentas |
+|---------|----------|----------------|-----------------------|
+| ![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg) | ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) | ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) | ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) |
+| ![.NET](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg) | ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) | ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) | ![GitHub](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg) |
+| ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) | ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) | ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) | ![AWS](https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg) |
+| ![Node](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) | ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) |  |  |
+
+</div>
+
+---
+
+<h2 align="center">🎯 Objetivo</h2>
+
+<p align="center">
+Atualmente atuo como <strong>Desenvolvedor RPA Jr</strong>, focando minha evolução para o caminho <strong>Back-End / Full-Stack</strong> com C#, .NET e arquitetura limpa.
 </p>
 
-<h3>🌐 Front-End</h3>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+---
+
+<h2 align="center">📊 GitHub Intelligence</h2>
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jaummm777&show_icons=true&theme=blue_navy&hide_border=true&count_private=true">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaummm777&layout=compact&theme=blue_navy&hide_border=true">
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Jaummm777&theme=blue-navy&hide_border=true" />
+</div>
+
+---
+
+<h2 align="center">🐍 Activity Matrix</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jaummm777/Jaummm777/output/snake.svg" alt="Snake animation showing coding activity"/>
 </p>
 
-<h3>💾 Banco de Dados</h3>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-</p>
+---
 
-<h3>🛠️ Ferramentas e DevOps</h3>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="filter: invert(100%);"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"/>
-</p>
+<h2 align="center">🔗 Network</h2>
 
-<h2 align="center">🎯 Objetivos Atuais</h2>
-<ul>
-  <li>Aprimorar ainda mais minhas habilidades com <strong>C#/.NET</strong> para back-end.</li>
-  <li>Atualmente trabalho como Desenvolvedor RPA Jr, mas meu foco é ser dev <strong>Back-End</strong> ou <strong>Full-Stack</strong>.</li>
-</ul>
-
-<h2 align="center">📫 Onde me encontrar</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-ferraz-34422322b" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/Jaummm777" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="45" height="45"/>
   </a>
 </p>
 
+---
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jaummm777/Jaummm777/output/snake.svg" />
+🌑 <i>Dark mode. Quiet grind. Progress always.</i>
 </p>
