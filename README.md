@@ -32,14 +32,14 @@
 <h3>🛠️ Ferramentas e DevOps</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="filter: invert(100%);"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"/>
 </p>
 
 <h2 align="center">🎯 Objetivos Atuais</h2>
 <ul>
   <li>Aprimorar ainda mais minhas habilidades com <strong>C#/.NET</strong> para back-end.</li>
-  <li>Atualmente trabalho como Desenvolvedor RPA Jr. Mas meu foco é ser dev back-end ou full-stack.</li>
+  <li>Atualmente trabalho como Desenvolvedor RPA Jr, mas meu foco é ser dev <strong>Back-End</strong> ou <strong>Full-Stack</strong>.</li>
 </ul>
 
 <h2 align="center">📫 Onde me encontrar</h2>
@@ -48,10 +48,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://github.com/Jaummm777" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Jaummm777/Jaummm777/output/snake.svg" />
 </p>
-
