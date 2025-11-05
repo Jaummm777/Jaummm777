@@ -8,8 +8,8 @@
 
 <h3>🖥️ Back-End</h3>
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
 </p>
@@ -38,13 +38,13 @@
 
 <h2 align="center">🎯 Objetivos Atuais</h2>
 <ul>
-  <li>Desenvolver ainda mais habilidades com <strong>Java</strong> para <strong> back-end.</strong></li>
-  <li>Conseguir arrumar um estágio ou um emprego como Jr. para aprimorar minhas habilidades.</li>
+  <li>Aprimorar ainda mais minhas habilidades com <strong>C#/.NET</strong> para back-end.</li>
+  <li>Atualmente trabalho como Desenvolvedor RPA Jr. Mas meu foco é ser dev back-end ou full-stack.</li>
 </ul>
 
 <h2 align="center">📫 Onde me encontrar</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-ferraz-34422322b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-ferraz-34422322b" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://github.com/Jaummm777" target="_blank">
