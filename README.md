@@ -25,7 +25,7 @@
 <h2 align="center">🎯 Objetivo</h2>
 
 <p align="center">
-Atualmente atuo como <strong>Desenvolvedor RPA Jr</strong>, focando minha evolução para o caminho <strong>Back-End / Full-Stack</strong> com C#, .NET e arquitetura limpa.
+Currently working as a Junior RPA Developer, focusing on advancing my career towards Back-End / Full-Stack development using C#, .NET, and Clean Architecture principles.
 </p>
 
 ---
