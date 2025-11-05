@@ -1,7 +1,7 @@
 <h1 align="center">🧠 João Vitor • Developer</h1>
 
 <p align="center">
-    <i>"Todo dia código. Todo dia evolução."</i>
+    <i>"Every day code. Every day evolution."</i>
 </p>
 
 ---
