@@ -51,3 +51,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jaummm777/Jaummm777/output/snake.svg" />
+</p>
+
